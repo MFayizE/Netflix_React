@@ -1,0 +1,19 @@
+.banner{
+    height: 600px;
+    width: 100%;
+}
+.banner-content{
+    padding-top: 350px;
+    margin-left: 40px;
+    
+}
+.headtext{
+    font-size: 4em;
+}
+.headtextSmall{
+    font-size: 3em;
+}
+.sectext{
+    margin-top: -20px;
+    max-width: 550px;
+}
